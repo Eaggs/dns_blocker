@@ -1,0 +1,11 @@
+ads.google.com
+doubleclick.net
+adservice.google.com
+trackers.example.com
+gql.twitch.tv
+usher.ttvnw.net
+pubads.g.doubleclick.net
+player.twitch.tv
+static.twitchcdn.net
+twitchads.a2z.com
+video-edge-XXX.twitch.tv
