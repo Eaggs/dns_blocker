@@ -1,0 +1,42 @@
+# Python cache fajlovi
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment folderi
+venv/
+env/
+.venv/
+.env/
+
+# VSCode folder
+.vscode/
+
+# Logovi
+*.log
+
+# Windows junk fajlovi
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Python dependency fajlovi
+pip-log.txt
+pip-delete-this-directory.txt
+
+# IDE specifične stvari
+.idea/
+
+# Installer output
+dist/
+build/
+
+# DNS bloker service logovi
+*.pid
+*.db
+
+# PyInstaller build folderi
+*.spec
+
+# Git config fajl lokalno
+.gitconfig
